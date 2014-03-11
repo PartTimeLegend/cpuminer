@@ -1,0 +1,26 @@
+{
+  "name": "CPU Miner",
+  "version": "0.0.1",
+  "description": "CPU Miner",
+  "scripts": {
+    "start": "sh autogen.sh",
+    "test": "sh autogen.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PartTimeLegend/cpuminer"
+  },
+  "dependencies": {
+    "node-curl": "0.3.1"
+  },
+  "devDependencies": {
+    "node-curl": "0.3.1"
+  },
+  "keywords": [
+    "bitcoin",
+    "buttercoin"
+  ],
+  "author": "Antony Bailey (http://github.com/PartTimeLegend/)",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}

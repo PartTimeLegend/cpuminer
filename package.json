@@ -11,15 +11,11 @@
     "url": "git://github.com/PartTimeLegend/cpuminer"
   },
   "dependencies": {
-    "node-curl": "0.3.1"
+    "node-curl"
   },
   "devDependencies": {
-    "node-curl": "0.3.1"
+    "node-curl"
   },
-  "keywords": [
-    "bitcoin",
-    "buttercoin"
-  ],
   "author": "Antony Bailey (http://github.com/PartTimeLegend/)",
   "license": "MIT",
   "readmeFilename": "README.md"

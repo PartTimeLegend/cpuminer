@@ -10,12 +10,6 @@
     "type": "git",
     "url": "git://github.com/PartTimeLegend/cpuminer"
   },
-  "dependencies": {
-    "node-curl"
-  },
-  "devDependencies": {
-    "node-curl"
-  },
   "author": "Antony Bailey (http://github.com/PartTimeLegend/)",
   "license": "MIT",
   "readmeFilename": "README.md"
